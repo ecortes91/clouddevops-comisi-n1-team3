@@ -14,3 +14,4 @@
 ## 15/02/2022
 - Se repasó la finalización de las tareas y se movieron las tarjetas de forma correspondiente. 
 - Se adjuntaron las evidencias pertinentes a la realización de las mismas.
+- Se deja asentada la baja de un compañero el cual informó por el grupo de telegram.
